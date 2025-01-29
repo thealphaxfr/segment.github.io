@@ -70,6 +70,13 @@
 
   <dependencyManagement>
     <dependencies>
+
+<dependency>
+  <groupId>com.segment.analytics.java</groupId>
+  <artifactId>analytics</artifactId>
+  <version>LATEST</version>
+</dependency>
+
       <dependency>
         <groupId>com.squareup.retrofit2</groupId>
         <artifactId>retrofit</artifactId>
